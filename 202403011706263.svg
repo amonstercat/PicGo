@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 242.66667 233.33333"
+   height="233.33333"
+   width="242.66667"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,233.33333)"
+     id="g10"><g
+       transform="scale(0.1)"
+       id="g12"><path
+         id="path14"
+         style="fill:#65b26b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 114.648,1003.32 h 625.551 c 45.153,0 81.442,-36.332 81.442,-81.441 0,-45.117 -36.289,-81.449 -81.442,-81.449 H 114.648 c -45.1167,0 -81.4488,36.332 -81.4488,81.449 0,45.109 36.3321,81.441 81.4488,81.441 z" /><path
+         id="path16"
+         style="fill:none;stroke:#263f29;stroke-width:13.21819973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 114.648,1003.32 h 625.551 c 45.153,0 81.442,-36.332 81.442,-81.441 0,-45.117 -36.289,-81.449 -81.442,-81.449 H 114.648 c -45.1167,0 -81.4488,36.332 -81.4488,81.449 0,45.109 36.3321,81.441 81.4488,81.441 z" /><g
+         transform="scale(10)"
+         id="g18"><text
+           id="text22"
+           style="font-variant:normal;font-weight:bold;font-size:8.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,26.3395,90.1715)"><tspan
+             id="tspan20"
+             y="0"
+             x="0 5.9159999 8.8739996 15.997 18.955 24.718 27.633499">1 + elu</tspan></text>
+</g><path
+         id="path24"
+         style="fill:#c39ba2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 587.148,530.82 H 1212.7 c 45.15,0 81.44,-36.332 81.44,-81.441 0,-45.117 -36.29,-81.449 -81.44,-81.449 H 587.148 c -45.117,0 -81.449,36.332 -81.449,81.449 0,45.109 36.332,81.441 81.449,81.441 z" /><path
+         id="path26"
+         style="fill:none;stroke:#632c35;stroke-width:13.21819973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 587.148,530.82 H 1212.7 c 45.15,0 81.44,-36.332 81.44,-81.441 0,-45.117 -36.29,-81.449 -81.44,-81.449 H 587.148 c -45.117,0 -81.449,36.332 -81.449,81.449 0,45.109 36.332,81.441 81.449,81.441 z" /><g
+         transform="scale(10)"
+         id="g28"><text
+           id="text32"
+           style="font-variant:normal;font-weight:bold;font-size:8.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,63.0895,42.3859)"><tspan
+             id="tspan30"
+             y="0"
+             x="0 8.4575005 15.5125 21.751499 27.591 33.668682 39.210682 45.126682">MDConv3D</tspan></text>
+</g><path
+         id="path34"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 403.012,847.93 V 455.738 h 86.168" /><path
+         id="path36"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 472.148,455.738 -14.179,-14.179 49.609,14.179 -49.609,14.184 z" /><path
+         id="path38"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 472.148,455.738 -14.179,-14.179 49.609,14.179 -49.609,14.184 z" /><path
+         id="path40"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1307.89,442.5 h 91.13 v 422.852" /><path
+         id="path42"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1324.92,442.5 14.14,14.18 -49.61,-14.18 49.61,-14.18 z" /><path
+         id="path44"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1324.92,442.5 14.14,14.18 -49.61,-14.18 49.61,-14.18 z" /><path
+         id="path46"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 910.699,1388.09 V 559.219" /><path
+         id="path48"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 910.699,576.25 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><path
+         id="path50"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 910.699,576.25 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><path
+         id="path52"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 910.699,360.43 V 172.93" /><path
+         id="path54"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 910.699,189.961 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><path
+         id="path56"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 910.699,189.961 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><g
+         transform="scale(10)"
+         id="g58"><text
+           id="text62"
+           style="font-variant:normal;font-weight:bold;font-size:7.80000019px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,154.559,80.8379)"><tspan
+             id="tspan60"
+             y="0"
+             x="0 7.7610002 13.1196 18.704399 24.281536 26.956936 32.221935 35.973675 38.649075 44.007675">Modulation</tspan></text>
+</g><g
+         transform="scale(10)"
+         id="g64"><text
+           id="text70"
+           style="font-variant:normal;font-weight:bold;font-size:7.80000019px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,18.0324,39.1813)"><tspan
+             id="tspan66"
+             y="0"
+             x="0 6.474 9.1493998 11.8248 17.113043 20.841442 23.516842 28.875443">Dilation</tspan><tspan
+             id="tspan68"
+             y="7.0605502"
+             x="4.7531199 10.75912 16.02412 19.75252 25.04092">Rates</tspan></text>
+</g><path
+         id="path72"
+         style="fill:#a4d2a8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 90.9805,1383.91 H 762.578 c 47.652,0 86.012,-38.32 86.012,-85.98 v -181.72 c 0,-47.62 -38.36,-85.98 -86.012,-85.98 H 90.9805 C 43.3594,1030.23 5,1068.59 5,1116.21 v 181.72 c 0,47.66 38.3594,85.98 85.9805,85.98 z" /><path
+         id="path74"
+         style="fill:#65b26b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 113.672,1228.32 h 625.59 c 45.117,0 81.437,-36.33 81.437,-81.44 0,-45.12 -36.32,-81.45 -81.437,-81.45 h -625.59 c -45.1212,0 -81.4415,36.33 -81.4415,81.45 0,45.11 36.3203,81.44 81.4415,81.44 z" /><path
+         id="path76"
+         style="fill:none;stroke:#263f29;stroke-width:13.21819973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 113.672,1228.32 h 625.59 c 45.117,0 81.437,-36.33 81.437,-81.44 0,-45.12 -36.32,-81.45 -81.437,-81.45 h -625.59 c -45.1212,0 -81.4415,36.33 -81.4415,81.45 0,45.11 36.3203,81.44 81.4415,81.44 z" /><g
+         transform="scale(10)"
+         id="g78"><text
+           id="text82"
+           style="font-variant:normal;font-weight:bold;font-size:8.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,13.2129,111.503)"><tspan
+             id="tspan80"
+             y="0"
+             x="0 6.2389998 12.0785 18.130501 23.672501 26.630501 32.546501 38.028999 43.945 49.427502">Conv 3x3x3</tspan></text>
+</g><path
+         id="path84"
+         style="fill:#0087bd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1315.7,633.75 -23.71,52.5 c -1.09,2.5 -2.19,2.5 -4.37,2.5 h -22.19 v -4.691 h 10.78 v -56.008 c 0,-2.071 -0.19,-2.071 -2.81,-2.5 -2.5,-0.281 -2.7,-0.281 -5.47,-0.281 h -2.5 v -4.719 c 3.87,0.429 9.49,0.429 13.48,0.429 4.02,0 9.21,0 13.2,-0.429 v 4.719 h -2.31 c -1.87,0 -3.59,0.199 -5.31,0.281 -2.97,0.429 -2.97,0.429 -2.97,2.5 v 54.719 l 27,-59.719 c 0.97,-2 2.18,-2.5 3.28,-2.5 1.91,0 2.69,1.597 3.12,2.418 l 27.7,61.09 h 0.19 V 625.27 h -10.82 v -4.719 c 3.63,0.429 12.81,0.429 16.92,0.429 4.21,0 13.39,0 16.99,-0.429 v 4.719 h -10.59 v 58.789 h 10.59 v 4.691 h -21.88 c -2.22,0 -3.32,0 -4.41,-2.5 z" /><path
+         id="path86"
+         style="fill:#336b3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 446.91,675.352 V 616.52 h -10.621 v -4.68 h 42.813 c 19.609,0 34.418,12.18 34.418,33.512 0,21.878 -14.809,34.687 -34.54,34.687 l -3.859,-4.687 c 6.481,0 14.68,-1.911 19.68,-8.832 3.398,-5.071 4.179,-11.79 4.179,-21.09 0,-10.7 -1.281,-16.09 -4.371,-20.59 -4.808,-6.719 -13.398,-8.32 -19.488,-8.32 h -14.609 v 58.832 h 14.609 l 3.859,4.687 h -42.691 v -4.687 z" /><path
+         id="path88"
+         style="fill:#46bdd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1066.99,1002.77 h 625.59 c 45.12,0 81.44,-36.29 81.44,-81.399 0,-45.16 -36.32,-81.449 -81.44,-81.449 h -625.59 c -45.11,0 -81.439,36.289 -81.439,81.449 0,45.109 36.329,81.399 81.439,81.399 z" /><path
+         id="path90"
+         style="fill:none;stroke:#004f65;stroke-width:13.21819973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1066.99,1002.77 h 625.59 c 45.12,0 81.44,-36.29 81.44,-81.399 0,-45.16 -36.32,-81.449 -81.44,-81.449 h -625.59 c -45.11,0 -81.439,36.289 -81.439,81.449 0,45.109 36.329,81.399 81.439,81.399 z" /><g
+         transform="scale(10)"
+         id="g92"><text
+           id="text96"
+           style="font-variant:normal;font-weight:bold;font-size:8.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,118.967,89.4105)"><tspan
+             id="tspan94"
+             y="0"
+             x="0 6.1199999 9.0354996 15.1215 24.004038 29.843536 32.759037">Sigmoid</tspan></text>
+</g><path
+         id="path98"
+         style="fill:#92d8e6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1045.94,1381.56 h 676.33 c 46.32,0 83.63,-37.3 83.63,-83.63 v -182.97 c 0,-46.33 -37.31,-83.63 -83.63,-83.63 h -676.33 c -46.331,0 -83.639,37.3 -83.639,83.63 v 182.97 c 0,46.33 37.308,83.63 83.639,83.63 z" /><path
+         id="path100"
+         style="fill:#46bdd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1067.15,1228.32 h 625.55 c 45.15,0 81.44,-36.33 81.44,-81.44 0,-45.12 -36.29,-81.45 -81.44,-81.45 h -625.55 c -45.12,0 -81.451,36.33 -81.451,81.45 0,45.11 36.331,81.44 81.451,81.44 z" /><path
+         id="path102"
+         style="fill:none;stroke:#004f65;stroke-width:13.21819973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1067.15,1228.32 h 625.55 c 45.15,0 81.44,-36.33 81.44,-81.44 0,-45.12 -36.29,-81.45 -81.44,-81.45 h -625.55 c -45.12,0 -81.451,36.33 -81.451,81.45 0,45.11 36.331,81.44 81.451,81.44 z" /><g
+         transform="scale(10)"
+         id="g104"><text
+           id="text108"
+           style="font-variant:normal;font-weight:bold;font-size:8.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,109.282,112.079)"><tspan
+             id="tspan106"
+             y="0"
+             x="0 6.2389998 12.0785 18.130501 23.672501 26.630501 32.546501 38.028999 43.945 49.427502">Conv 3x3x3</tspan></text>
+</g><path
+         id="path110"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 430.699,1256.25 V 1485.9 H 1401.29 V 1254.61" /><path
+         id="path112"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 430.699,1273.24 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><path
+         id="path114"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 430.699,1273.24 -14.179,14.18 14.179,-49.61 14.18,49.61 z" /><path
+         id="path116"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1401.29,1271.64 -14.18,14.18 14.18,-49.61 14.18,49.61 z" /><path
+         id="path118"
+         style="fill:none;stroke:#000000;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1401.29,1271.64 -14.18,14.18 14.18,-49.61 14.18,49.61 z" /><path
+         id="path120"
+         style="fill:none;stroke:#000000;stroke-width:14.17319965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 910.699,1387.93 v 210" /><path
+         id="path122"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 291.52,1327.89 h 13.789 c 2.269,0 4.57,0 4.57,3.59 0,2.04 -2.027,2.04 -4.219,2.04 h -13.32 l 3.988,21.6 c 0.352,2.18 0.352,2.42 1.563,3.51 1.41,1.29 2.73,1.29 3.48,1.29 1.559,0 2.609,-0.12 4.18,-0.7 -2.891,-1.45 -5.039,-4.45 -5.039,-7.7 0,-3.59 2.769,-5.62 5.777,-5.62 4.922,0 8.633,4.3 8.633,8.87 0,6.13 -6.25,9.49 -13.551,9.49 -5.551,0 -12.391,-2.15 -16.449,-8.75 -2.774,-4.57 -3.594,-9.26 -5.781,-21.99 H 267.5 c -2.27,0 -4.301,0 -4.301,-3.36 0,-2.27 2.031,-2.27 3.949,-2.27 h 11.051 l -9.25,-50.62 c -0.121,-1.1 -1.449,-8.64 -2.039,-10.32 -0.23,-0.5 -2.262,-6.13 -6.012,-6.13 -2.269,0 -3.238,0.35 -4.058,0.7 3,1.57 5.148,4.57 5.148,7.93 0,3.48 -2.769,5.39 -5.738,5.39 -4.922,0 -8.672,-4.06 -8.672,-8.75 0,-6.48 6.992,-9.49 13.082,-9.49 8.91,0 15,8.91 16.219,10.35 5.031,7.89 7.812,23.13 8.043,24.93 z" /><path
+         id="path124"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 338.199,1320.35 v -3.01 c 5.629,0 6.371,-0.62 6.371,-4.68 v -17.39 c -3.121,2.97 -7.109,4.65 -11.761,4.65 -11.289,0 -20.661,-8.51 -20.661,-18.94 0,-10.67 8.75,-18.95 19.692,-18.95 l 0.351,2.27 c -4.691,0 -8.05,2.77 -9.73,5.15 -1.68,2.54 -2.621,5.9 -2.621,11.29 0,2.03 0,8.28 3.359,12.35 3.36,3.86 7.539,4.57 9.961,4.57 4.07,0 7.66,-1.92 10.078,-4.93 0.942,-1.32 0.942,-1.44 0.942,-3 v -18.13 c -2.27,-3.94 -6.602,-7.3 -11.989,-7.3 l -0.351,-2.27 c 6.711,0 10.89,3.59 12.34,5.04 v -5.04 l 12.968,0.7 v 3.01 c -5.628,0 -6.25,0.59 -6.25,4.69 v 50.86 z" /><path
+         id="path126"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1510.43,1328.55 h 13.79 c 2.26,0 4.57,0 4.57,3.6 0,2.03 -2.03,2.03 -4.22,2.03 h -13.32 l 3.98,21.6 c 0.36,2.19 0.36,2.42 1.57,3.52 1.4,1.29 2.73,1.29 3.47,1.29 1.57,0 2.62,-0.12 4.18,-0.71 -2.89,-1.44 -5.04,-4.45 -5.04,-7.69 0,-3.6 2.78,-5.63 5.79,-5.63 4.92,0 8.63,4.3 8.63,8.87 0,6.13 -6.25,9.49 -13.56,9.49 -5.54,0 -12.38,-2.15 -16.44,-8.75 -2.78,-4.57 -3.6,-9.26 -5.78,-21.99 h -11.64 c -2.27,0 -4.3,0 -4.3,-3.36 0,-2.27 2.03,-2.27 3.94,-2.27 h 11.06 l -9.26,-50.62 c -0.12,-1.09 -1.44,-8.63 -2.03,-10.31 -0.23,-0.51 -2.27,-6.14 -6.02,-6.14 -2.26,0 -3.24,0.36 -4.06,0.71 3.01,1.56 5.16,4.57 5.16,7.93 0,3.47 -2.78,5.39 -5.74,5.39 -4.93,0 -8.68,-4.06 -8.68,-8.75 0,-6.49 7,-9.49 13.09,-9.49 8.91,0 15,8.9 16.21,10.35 5.04,7.89 7.81,23.12 8.05,24.92 z" /><path
+         id="path128"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 1596.45,1288.95 v 1.32 l -0.12,0.59 v 0.62 l -0.12,0.59 -0.12,0.63 -0.11,0.58 -0.24,0.59 -0.12,0.51 -0.46,0.93 -0.39,0.47 -0.24,0.51 -0.35,0.35 -0.35,0.47 -0.74,0.74 -0.47,0.35 -0.35,0.35 -0.47,0.24 -0.63,0.23 -0.47,0.28 -0.58,0.23 -0.63,0.24 -0.58,0.23 -0.59,0.12 -0.74,0.11 -0.7,0.12 -0.75,0.12 h -1.56 l -0.82,0.12 c -6.6,0 -11.05,-3.6 -13.55,-7.66 -1.68,5.98 -6.14,7.66 -12.39,7.66 -6.95,0 -11.4,-3.83 -13.67,-8.17 h -0.12 v 8.17 l -12.34,-0.94 v -3.01 c 5.51,0 6.33,-0.59 6.33,-4.69 v -21.83 c 0,-3.71 -0.82,-3.71 -6.33,-3.71 v -3.01 c 0.12,0 6.09,0.35 9.69,0.35 3.01,0 8.79,-0.35 9.49,-0.35 v 3.01 c -5.39,0 -6.13,0 -6.13,3.71 v 15.23 c 0,8.75 6.99,12.97 12.61,12.97 5.75,0 6.49,-4.69 6.49,-8.98 v -19.22 c 0,-3.71 -0.74,-3.71 -6.37,-3.71 v -3.01 c 0.24,0 6.25,0.35 9.73,0.35 3.01,0 8.86,-0.35 9.61,-0.35 v 3.01 c -5.43,0 -6.14,0 -6.14,3.71 v 15.23 c 0,8.75 6.84,12.97 12.46,12.97 5.9,0 6.61,-4.69 6.61,-8.98 v -19.22 c 0,-3.71 -0.71,-3.71 -6.21,-3.71 v -3.01 c 0,0 5.97,0.35 9.57,0.35 3,0 9.02,-0.35 9.72,-0.35 v 3.01 c -5.62,0 -6.36,0 -6.36,3.71 z" /><g
+         transform="scale(10)"
+         id="g130"><text
+           id="text134"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,85.2672,164.794)"><tspan
+             id="tspan132"
+             y="0"
+             x="0">X</tspan></text>
+<text
+           id="text138"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,103.9805,167.23697)"><tspan
+             id="tspan136"
+             y="0"
+             x="0 4.1129999">(C</tspan></text>
+<text
+           id="text142"
+           style="font-variant:normal;font-weight:bold;font-size:5.8499999px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,114.7032,165.43697)"><tspan
+             id="tspan140"
+             y="0"
+             x="0 2.0065501">in</tspan></text>
+<text
+           id="text146"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,124.01375,167.23697)"><tspan
+             id="tspan144"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text150"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,130.75398,167.23697)"><tspan
+             id="tspan148"
+             y="0"
+             x="0 6.138">T </tspan></text>
+<text
+           id="text154"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,140.01765,167.23697)"><tspan
+             id="tspan152"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text158"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,147.66137,167.23697)"><tspan
+             id="tspan156"
+             y="0"
+             x="0 7.533">H </tspan></text>
+<text
+           id="text162"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,158.32817,167.23697)"><tspan
+             id="tspan160"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text166"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,165.97189,167.23697)"><tspan
+             id="tspan164"
+             y="0"
+             x="0 9.927">W)</tspan></text>
+<text
+           id="text170"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,85.26719,0.59797)"><tspan
+             id="tspan168"
+             y="0"
+             x="0">Y</tspan></text>
+<text
+           id="text174"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,101.56989,2.77297)"><tspan
+             id="tspan172"
+             y="0"
+             x="0 4.1129999">(C</tspan></text>
+<text
+           id="text178"
+           style="font-variant:normal;font-weight:bold;font-size:5.8499999px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,112.29259,0.97297)"><tspan
+             id="tspan176"
+             y="0"
+             x="0 4.01895 8.1841497">out</tspan></text>
+<text
+           id="text182"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,126.4133,2.77297)"><tspan
+             id="tspan180"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text186"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,133.15353,2.77297)"><tspan
+             id="tspan184"
+             y="0"
+             x="0 6.138">T </tspan></text>
+<text
+           id="text190"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,142.4172,2.77297)"><tspan
+             id="tspan188"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text194"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,150.06092,2.77297)"><tspan
+             id="tspan192"
+             y="0"
+             x="0 7.533">H </tspan></text>
+<text
+           id="text198"
+           style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,160.72772,2.77297)"><tspan
+             id="tspan196"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text202"
+           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,168.37144,2.77297)"><tspan
+             id="tspan200"
+             y="0"
+             x="0 9.927">W)</tspan></text>
+</g><g
+         transform="scale(10)"
+         id="g204"><text
+           id="text208"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,80.2422)"><tspan
+             id="tspan206"
+             y="0"
+             x="0 2.7420001 7.3920002">(K </tspan></text>
+<text
+           id="text212"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,70.76173)"><tspan
+             id="tspan210"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text216"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,65.45107)"><tspan
+             id="tspan214"
+             y="0"
+             x="0 4.092">T </tspan></text>
+<text
+           id="text220"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,59.27735)"><tspan
+             id="tspan218"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text224"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,53.96669)"><tspan
+             id="tspan222"
+             y="0"
+             x="0 5.0219998">H </tspan></text>
+<text
+           id="text228"
+           style="font-variant:normal;font-weight:bold;font-size:5.5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,46.85547)"><tspan
+             id="tspan226"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text232"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0087bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,-1,0,144.487,41.22255)"><tspan
+             id="tspan230"
+             y="0"
+             x="0 6.618">W)</tspan></text>
+</g><g
+         transform="scale(10)"
+         id="g234"><text
+           id="text238"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,32.6148)"><tspan
+             id="tspan236"
+             y="0"
+             x="0 2.7420001 6.9180002">(3 </tspan></text>
+<text
+           id="text242"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,41.6148)"><tspan
+             id="tspan240"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text246"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,46.92546)"><tspan
+             id="tspan244"
+             y="0"
+             x="0 4.092">T </tspan></text>
+<text
+           id="text250"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,53.09918)"><tspan
+             id="tspan248"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text254"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,58.40984)"><tspan
+             id="tspan252"
+             y="0"
+             x="0 5.0219998">H </tspan></text>
+<text
+           id="text258"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,65.52106)"><tspan
+             id="tspan256"
+             y="0"
+             x="0">x</tspan></text>
+<text
+           id="text262"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#336b3d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,1,1,0,35.175,70.83172)"><tspan
+             id="tspan260"
+             y="0"
+             x="0 6.618">W)</tspan></text>
+</g></g></g></svg>
